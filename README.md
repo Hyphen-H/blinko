@@ -21,12 +21,12 @@
 <div align="center">
 
 [Home Page](https://blinko-doc.vercel.app/) •
-[Live Demo](https://blinko-demo.vercel.app/) •
 [Docs](https://blinko-doc.vercel.app/intro.html) •
 [Telegram Chinese](https://t.me/blinkoChinese) •
 [Telegram English](https://t.me/blinkoEnglish)
 </div>
 
+[Live Demo](https://blinko-demo.vercel.app/)
 > username:blinko
 > password:blinko
 
